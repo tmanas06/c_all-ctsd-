@@ -1,0 +1,1 @@
+/*to find product of middlw two numbers from the given number */

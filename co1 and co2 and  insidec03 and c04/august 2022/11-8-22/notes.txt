@@ -1,0 +1,10 @@
+for the first code in a professional way (11-8-21)
+#1
+printf("%d is sum of %d and %d",s,n1,n2);
+
+30 is sum of 10 and 20
+
+#2
+print("\n%d * %d gives %d",n1,n2,p);
+
+10*20 gives 30 

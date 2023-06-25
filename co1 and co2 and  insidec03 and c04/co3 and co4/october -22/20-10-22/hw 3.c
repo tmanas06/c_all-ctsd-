@@ -1,0 +1,1 @@
+/*write a c program to display the given string in sorted order */

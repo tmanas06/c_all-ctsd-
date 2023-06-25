@@ -1,0 +1,1 @@
+/*Find whether the given number is armstrong number or not */

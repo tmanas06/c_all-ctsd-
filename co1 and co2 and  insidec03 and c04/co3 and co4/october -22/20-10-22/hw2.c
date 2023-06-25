@@ -1,0 +1,1 @@
+/*write a c program to copy a string into another string */

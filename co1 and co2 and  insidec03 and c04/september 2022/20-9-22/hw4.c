@@ -1,0 +1,1 @@
+/* sum of most significant digit and the least significant digit*/

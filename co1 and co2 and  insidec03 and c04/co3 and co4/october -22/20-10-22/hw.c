@@ -1,0 +1,1 @@
+/*write a c program to count nummber of words in a given sentence*/

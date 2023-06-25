@@ -1,0 +1,1 @@
+/* count the number of even numbers and odd numbers in the given number*/
